@@ -1,4 +1,4 @@
-# learning
+# learning reference
 When learning a lot of new stuff, its easy to forget some of it. Here's a place to record some of it!
 
 - [Learning - Vim & tmux](https://github.com/prazgaitis/learning-vim-tmux)
